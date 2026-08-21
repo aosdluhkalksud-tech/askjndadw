@@ -314,4 +314,8 @@ t78 | Medicina del Trabajo Bajío | family | https://raw.githubusercontent.com/a
 t78 | Medicina del Trabajo Bajío | family | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/t78-390-fold.png
 t78 | Medicina del Trabajo Bajío | family | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/t78-390-form.png
 t78 | Medicina del Trabajo Bajío | family | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/t78-1440.png
+t79 | Eléctrica y Plomería Tepeyac | trades | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/t79-390.png
+t79 | Eléctrica y Plomería Tepeyac | trades | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/t79-390-fold.png
+t79 | Eléctrica y Plomería Tepeyac | trades | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/t79-390-form.png
+t79 | Eléctrica y Plomería Tepeyac | trades | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/t79-1440.png
 contact-sheet | catalog | all | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/contact-sheet.png
