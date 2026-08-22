@@ -318,4 +318,32 @@ t79 | Eléctrica y Plomería Tepeyac | trades | https://raw.githubusercontent.co
 t79 | Eléctrica y Plomería Tepeyac | trades | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/t79-390-fold.png
 t79 | Eléctrica y Plomería Tepeyac | trades | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/t79-390-form.png
 t79 | Eléctrica y Plomería Tepeyac | trades | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/t79-1440.png
+esman | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman-390.png
+esman | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman-390-fold.png
+esman | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman-390-form.png
+esman | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman-1440.png
+esman--nosotros | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--nosotros-390.png
+esman--nosotros | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--nosotros-390-fold.png
+esman--nosotros | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--nosotros-390-form.png
+esman--nosotros | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--nosotros-1440.png
+esman--productos | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--productos-390.png
+esman--productos | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--productos-390-fold.png
+esman--productos | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--productos-390-form.png
+esman--productos | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--productos-1440.png
+esman--producto | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--producto-390.png
+esman--producto | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--producto-390-fold.png
+esman--producto | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--producto-390-form.png
+esman--producto | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--producto-1440.png
+esman--carrito | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--carrito-390.png
+esman--carrito | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--carrito-390-fold.png
+esman--carrito | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--carrito-390-form.png
+esman--carrito | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--carrito-1440.png
+esman--blog | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--blog-390.png
+esman--blog | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--blog-390-fold.png
+esman--blog | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--blog-390-form.png
+esman--blog | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--blog-1440.png
+esman--post | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--post-390.png
+esman--post | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--post-390-fold.png
+esman--post | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--post-390-form.png
+esman--post | Especialistas en Mangueras y Conexiones | industrial | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/esman--post-1440.png
 contact-sheet | catalog | all | https://raw.githubusercontent.com/aosdluhkalksud-tech/askjndadw/main/shots/contact-sheet.png
